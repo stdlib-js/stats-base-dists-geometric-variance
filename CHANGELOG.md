@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-04)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#3643](https://github.com/stdlib-js/stdlib/issues/3643), [#5469](https://github.com/stdlib-js/stdlib/issues/5469)
+[#3643](https://github.com/stdlib-js/stdlib/issues/3643), [#5469](https://github.com/stdlib-js/stdlib/issues/5469), [#5719](https://github.com/stdlib-js/stdlib/issues/5719)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f3a4bd9`](https://github.com/stdlib-js/stdlib/commit/f3a4bd94c9916cba85568defa27e525c2e89613e) - **chore:** address commit comment [(#5736)](https://github.com/stdlib-js/stdlib/pull/5736) _(by Jalaj Kumar)_
 -   [`483ccab`](https://github.com/stdlib-js/stdlib/commit/483ccab72251ca824d678a1a5b241faf8c694005) - **chore:** address commit comments (docs update & bench refactor) [(#5518)](https://github.com/stdlib-js/stdlib/pull/5518) _(by rahulrangers, Neeraj Pathak)_
 -   [`0025233`](https://github.com/stdlib-js/stdlib/commit/0025233fc631a66f86f0139edd2ee9a37885193f) - **feat:** add C implementation for `stats/base/dists/geometric/variance` [(#4012)](https://github.com/stdlib-js/stdlib/pull/4012) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 -   [`bce4dac`](https://github.com/stdlib-js/stdlib/commit/bce4dac63618cd50985d7875d89933c116cd185d) - **bench:** refactor random number generation in `stats/base/dists/geometric` [(#4931)](https://github.com/stdlib-js/stdlib/pull/4931) _(by Karan Anand, stdlib-bot)_
@@ -48,9 +49,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Jalaj Kumar
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
